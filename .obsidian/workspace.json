@@ -83,7 +83,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8. Dapp Standards.md",
+                "file": "Notes/3.DecentralisedApps/8. Dapp Standards.md",
                 "mode": "source",
                 "source": false
               },
@@ -234,10 +234,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "23fd7ba87f92eca7",
+  "active": "05d0a13a25c771fc",
   "lastOpenFiles": [
     "Notes/3.DecentralisedApps/7. Dapp models.md",
-    "8. Dapp Standards.md",
+    "Notes/3.DecentralisedApps/8. Dapp Standards.md",
     "Notes/3.DecentralisedApps/4. Web Interface and testing.md",
     "Notes/3.DecentralisedApps/3.Test Driven Development.md",
     "Images/Screenshot 2025-03-30 170941.png",
