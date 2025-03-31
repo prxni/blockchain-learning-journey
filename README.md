@@ -1,7 +1,3 @@
-Here's the updated **README.md** file with the correct deployment instructions:  
-
----
-
 # **Blockchain Learning Journey** 🚀  
 **November 2024**  
 
@@ -70,9 +66,3 @@ The repository includes multiple Solidity-based smart contracts to practice and 
 ## **Contributions**  
 Feel free to contribute by improving documentation, adding new smart contracts, or enhancing existing ones.  
 
-## **License**  
-This repository is licensed under the **MIT License**.  
-
----
-
-Let me know if you need any more refinements! 🚀
